@@ -59,9 +59,16 @@ My goal is to strengthen my foundations in AI while building useful applications
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=for-the-badge)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-2E8B57?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-4682B4?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-315C46?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3572A5?style=for-the-badge)
 ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=for-the-badge)
+
+### Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-008B8B?style=for-the-badge)
 
 ### AI Engineering
 
@@ -80,13 +87,12 @@ My goal is to strengthen my foundations in AI while building useful applications
 ![Text Classification](https://img.shields.io/badge/Text_Classification-336699?style=for-the-badge)
 ![Semantic Similarity](https://img.shields.io/badge/Semantic_Similarity-7952B3?style=for-the-badge)
 
-### Backend & Infrastructure
+### Backend 
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 </div>
 
