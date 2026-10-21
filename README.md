@@ -106,8 +106,6 @@ A ROS-based target-tracking project combining visual processing, robotic communi
 - Reinforcement learning and decision-making under resource constraints.
 - Reliable model evaluation and the path from experimentation to deployment.
 
-## GitHub Activity
-
 <div align="center">
   <sub>Learn continuously · Build thoughtfully · Innovate with purpose</sub>
 </div>
