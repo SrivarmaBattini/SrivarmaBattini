@@ -83,10 +83,11 @@ My goal is to strengthen my foundations in AI while building useful applications
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FC6D26?style=for-the-badge&logo=huggingface&logoColor=white)
-![BERT](https://img.shields.io/badge/RAG-365E9D?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-0081A5?style=for-the-badge)
 ![DeBERTa](https://img.shields.io/badge/DeBERTa-4B6F44?style=for-the-badge)
 ![Text Classification](https://img.shields.io/badge/Text_Classification-336699?style=for-the-badge)
 ![Semantic Similarity](https://img.shields.io/badge/Semantic_Similarity-7952B3?style=for-the-badge)
+
 
 ### Backend & Infrastructure 
 
