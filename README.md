@@ -1,133 +1,139 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Srivarma Battini — AI/ML, NLP and LLM Engineering"/>
+<!-- Replace the paths below if you rename the SVG files or the repository. -->
+<img src="assets/header.svg" alt="Srivarma Battini — Machine Learning / AI Developer" width="100%" />
 
-<p>
-  <a href="#featured-work">PROJECTS</a> &nbsp;·&nbsp;
-  <a href="#technical-focus">TECH STACK</a> &nbsp;·&nbsp;
-  <a href="#currently-exploring">EXPLORING</a> &nbsp;·&nbsp;
-  <a href="#connect">CONNECT</a>
-</p>
+<br/>
 
-<a href="https://www.linkedin.com/in/srivarma-battini-20b37632b/"><img src="https://img.shields.io/badge/LINKEDIN-0D9488?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:srivarma153@gmail.com"><img src="https://img.shields.io/badge/EMAIL-233030?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/SrivarmaBattini"><img src="https://img.shields.io/badge/GITHUB-233030?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:srivarma153@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-56D6C2?style=for-the-badge&logo=gmail&logoColor=171B20" alt="Email" />
+</a>
+<a href="https://github.com/SrivarmaBattini">
+  <img src="https://img.shields.io/badge/GitHub-SrivarmaBattini-20262D?style=for-the-badge&logo=github&logoColor=F2F5F7" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/srivarma-battini-20b37632b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-20262D?style=for-the-badge&logo=linkedin&logoColor=56D6C2" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## ⚡ Profile Pulse
+## About Me
 
-> **I build intelligent systems with a focus on how they learn, understand language, and become useful software.**
+I'm an AI developer focused on building intelligent systems that combine machine learning, language models, and practical software engineering. I enjoy turning research-driven ideas into reliable applications, experimenting with learning algorithms, and developing tools that solve concrete problems.
 
-I'm **Srivarma Battini**, an AI/ML developer working across **Machine Learning, Natural Language Processing, LLM engineering, and backend development**. I enjoy taking an idea from fundamentals and experimentation through implementation, evaluation, and an application people can use.
+My interests include **Machine Learning, Deep Learning, NLP, Large Language Models, Reinforcement Learning, and AI Engineering**. I value clear experimentation, thoughtful system design, and building projects that connect models to useful real-world workflows.
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%"><strong>01 / LEARN</strong><br/>Understand the problem<br/>and the underlying method</td>
-<td align="center" width="33%"><strong>02 / BUILD</strong><br/>Turn ideas into working<br/>models and applications</td>
-<td align="center" width="33%"><strong>03 / EVALUATE</strong><br/>Test behavior, measure results,<br/>improve the system</td>
-</tr>
-</table>
-</div>
+**Learn continuously. Build thoughtfully. Innovate with purpose.**
 
-<a id="featured-work"></a>
+---
 
-## ▸ Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/emailiq.svg" width="100%" alt="EmailIQ project illustration"/>
-<h3>EmailIQ</h3>
-<sub>01 — NLP · EMAIL INTELLIGENCE</sub>
-
-Analyzes email tone and intent and supports professional rewrites while aiming to preserve the writer's meaning.
-
-`DeBERTa` `SBERT` `RAG` `ChromaDB` `LLMs`
-
-**[Explore repository →](PROJECT_REPO_URL_EMAILIQ)**
-</td>
-<td width="50%" valign="top">
-<img src="assets/inferencehub.svg" width="100%" alt="InferenceHub project illustration"/>
-<h3>InferenceHub</h3>
-<sub>02 — AI ENGINEERING · MODEL INFERENCE</sub>
-
-An AI engineering project. Update this short summary to describe the specific inference workflow and features implemented in the repository.
-
-`AI Engineering` `Model Inference` `Backend`
-
-**[Explore repository →](PROJECT_REPO_URL_INFERENCEHUB)**
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/lrecall.svg" width="100%" alt="LRecall project illustration"/>
-<h3>LRecall</h3>
-<sub>03 — REINFORCEMENT LEARNING · ADAPTIVE REVIEW</sub>
-
-Studies how to allocate a limited daily review budget to improve long-term memory retention using a spaced-repetition simulation and a Whittle-index-based policy.
-
-`Python` `QWI` `Whittle Index` `FastAPI`
-
-**[Explore repository →](PROJECT_REPO_URL_LRECALL)**
-</td>
-<td width="50%" valign="top">
-<img src="assets/robotics.svg" width="100%" alt="Computer vision and robotics project illustration"/>
-<h3>Computer Vision & Robotics</h3>
-<sub>04 — VISUAL PERCEPTION · ROBOTIC CONTROL</sub>
-
-A ROS-based target-tracking system combining camera input, computer vision, inter-node communication, and servo control.
-
-`ROS 2` `Python` `OpenCV` `Servo Control`
-
-**[Explore repository →](PROJECT_REPO_URL_ROBOTICS)**
-</td>
-</tr>
-</table>
-
-<a id="technical-focus"></a>
-
-## ▸ Technical Profile
-
-<table>
-<tr><td width="28%"><strong>Machine Learning</strong></td><td>Python · PyTorch · scikit-learn · NumPy · Pandas · Deep Learning · Reinforcement Learning · Feature Engineering · Model Evaluation</td></tr>
-<tr><td><strong>Natural Language Processing</strong></td><td>Hugging Face · Transformers · Text Classification · Sentiment Analysis · Text Embeddings · Semantic Similarity · Text Preprocessing</td></tr>
-<tr><td><strong>AI Engineering</strong></td><td>LLM Integration · Prompt Engineering · RAG · ChromaDB · Vector Databases · Semantic Search · Model Serving</td></tr>
-<tr><td><strong>Backend Development</strong></td><td>FastAPI · REST APIs · SQL · PostgreSQL · Docker · Git · DBMS · Authentication · Client–Server Architecture</td></tr>
-</table>
-
-<a id="currently-exploring"></a>
-
-## ▸ Currently Exploring
-
-- Building useful applications around language models and retrieval systems.
-- Reinforcement learning for decision-making under resource constraints.
-- Reliable model evaluation and the path from experimentation to deployment.
-
-## ▸ GitHub Activity
-
-I keep this section intentionally simple so it never depends on a third-party graph service that might break. **[View my repositories and contributions on GitHub →](https://github.com/SrivarmaBattini?tab=repositories)**
-
-<a id="connect"></a>
-
-## ▸ Connect
-
-Interested in AI/ML, NLP, LLM engineering, and intelligent software systems? [Let's connect on LinkedIn](https://www.linkedin.com/in/srivarma-battini-20b37632b/) or [send me an email](mailto:srivarma153@gmail.com).
+## Technical Skills
 
 <div align="center">
 
-<sub>LEARN CONTINUOUSLY &nbsp;·&nbsp; BUILD THOUGHTFULLY &nbsp;·&nbsp; INNOVATE WITH PURPOSE</sub>
+<img src="assets/skills-ml.svg" alt="Machine Learning and Deep Learning skills" width="100%" />
+<br/>
+<img src="assets/skills-nlp.svg" alt="Natural Language Processing skills" width="100%" />
+<br/>
+<img src="assets/skills-ai-engineering.svg" alt="AI Engineering and LLM skills" width="100%" />
+<br/>
+<img src="assets/skills-backend.svg" alt="Backend and Software Engineering skills" width="100%" />
 
 </div>
 
-<!-- SETUP BEFORE PUBLISHING
-1. Replace PROJECT_REPO_URL_EMAILIQ with the actual EmailIQ repository URL.
-2. Replace PROJECT_REPO_URL_INFERENCEHUB with the actual InferenceHub repository URL.
-3. Replace PROJECT_REPO_URL_LRECALL with the actual LRecall repository URL.
-4. Replace PROJECT_REPO_URL_ROBOTICS with the actual robotics repository URL.
-5. Update the InferenceHub description and technologies to match its actual code.
-6. All visuals in assets/ are original SVG illustrations, not screenshots of running applications.
--->
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [EmailIQ](https://github.com/SrivarmaBattini/EmailIQ)
+
+**Email tone and intent analysis with context-aware rewriting.**
+
+Analyzes email tone, politeness, urgency, sarcasm, passive aggression, power dynamics, and changes in tone across a thread. Uses custom DeBERTa-v3-small models and retrieval-augmented rewriting to help users communicate more thoughtfully.
+
+**Tech:** Python · DeBERTa · Hugging Face Transformers · RAG · FAISS · Groq API · Llama 3.1 · FastAPI · Supabase
+
+**Focus:** Multi-signal NLP analysis paired with LLM-assisted rewriting.
+
+</td>
+<td width="50%" valign="top">
+
+### [ML Recall](https://github.com/SrivarmaBattini/MLRecall)
+
+**Reinforcement learning for memory-retention scheduling.**
+
+Frames review scheduling as a Restless Multi-Armed Bandit problem. The QWI approach uses Q-learning and Whittle Index-based prioritization alongside memory-decay modeling, simulation, and policy evaluation.
+
+**Tech:** Python · Reinforcement Learning · RMAB · Whittle Index · Optimization · Simulation · FastAPI
+
+**Focus:** Sequential decision-making under resource constraints.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Auto Aim Laser Turret](https://github.com/SrivarmaBattini/Auto-Aim-Laser-Turret)
+
+**Computer vision connected to robotic actuation.**
+
+Uses OpenCV for live-video target detection and tracking, estimates angles using geometry, and connects the resulting movement commands to servo control through ROS 2 on Raspberry Pi hardware.
+
+**Tech:** Python · OpenCV · ROS 2 · Raspberry Pi · USB Camera · Servo Control · PWM/GPIO
+
+**Focus:** End-to-end integration of visual tracking, geometry, and physical control.
+
+</td>
+<td width="50%" valign="top">
+
+### [InferenceHub](https://github.com/SrivarmaBattini/InferenceHub)
+
+**Backend infrastructure for machine-learning inference workloads.**
+
+A FastAPI-based service designed to manage and run inference workloads, with production-oriented backend structure, request tracing and structured logging, Gunicorn, Alembic migrations, caching, and streaming support.
+
+**Tech:** Python · FastAPI · Docker · Docker Compose · Gunicorn · Alembic
+
+**Focus:** Operationalizing ML inference through observable, deployable backend services.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Resume
+
+<div align="center">
+
+<a href="assets/Srivarma_Battini_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download-Resume-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20" alt="Download resume" />
+</a>
+
+</div>
+
+> Add your PDF at `assets/Srivarma_Battini_Resume.pdf` for the resume link to work.
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:srivarma153@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/SrivarmaBattini">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/srivarma-battini-20b37632b/">LinkedIn</a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" alt="Learn continuously. Build thoughtfully. Innovate with purpose." width="100%" />
+
+</div>
