@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Srivarma Battini — AI/ML Engineer" />
+<img src="assets/header.svg?v=2" width="100%" alt="Srivarma Battini — AI/ML Engineer" />
 
 <table>
 <tr>
@@ -33,7 +34,7 @@
 
 ## About Me
 
-I'm a Machine Learning / AI Developer interested in understanding how intelligent systems learn from data, process information, and solve real-world problems. My interests span **Machine Learning, Deep Learning, Natural Language Processing, Large Language Models (LLMs), Reinforcement Learning, and AI Engineering**.
+I'm an **AI/ML Engineer** interested in understanding how intelligent systems learn from data, process information, and solve real-world problems. My interests span **Machine Learning, Deep Learning, Natural Language Processing, Large Language Models (LLMs), Reinforcement Learning, and AI Engineering**.
 
 I'm particularly interested in exploring how language models understand and generate text, how Retrieval-Augmented Generation (RAG) enhances LLM applications, and how machine learning models can be integrated into reliable, practical software systems. I also enjoy experimenting with learning algorithms, exploring model architectures, and understanding the reasoning behind different technical approaches.
 
