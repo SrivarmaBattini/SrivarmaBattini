@@ -2,12 +2,30 @@
 
 <img src="assets/header.svg" width="100%" alt="Srivarma Battini — Machine Learning / AI Developer" />
 
-<br/>
-
-[![EMAIL](https://img.shields.io/badge/EMAIL-Contact-56D6C2?style=for-the-badge&logo=gmail&logoColor=171B20)](mailto:srivarma153@gmail.com)
-[![GITHUB](https://img.shields.io/badge/GITHUB-Profile-20262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrivarmaBattini)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-Connect-20262D?style=for-the-badge&logo=linkedin&logoColor=56D6C2)](https://www.linkedin.com/in/srivarma-battini-20b37632b/)
-[![RESUME](https://img.shields.io/badge/RESUME-Download-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20)](Srivarma_Battini_Reume.pdf)
+<table>
+<tr>
+<td align="center">
+<a href="mailto:srivarma153@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-56D6C2?style=for-the-badge&logo=gmail&logoColor=171B20" alt="Email"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/SrivarmaBattini">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-20262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/srivarma-battini-20b37632b/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-20262D?style=for-the-badge&logo=linkedin&logoColor=56D6C2" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center">
+<a href="Srivarma_Battini_Reume.pdf">
+<img src="https://img.shields.io/badge/RESUME-DOWNLOAD-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20" alt="Resume"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -101,7 +119,6 @@ Its QWI approach uses Q-learning and Whittle Index prioritization to investigate
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
