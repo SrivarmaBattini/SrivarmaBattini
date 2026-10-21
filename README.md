@@ -33,11 +33,11 @@
 
 ## About Me
 
-I'm a Machine Learning / AI Developer who enjoys building systems where intelligent models meet practical applications. I like exploring problems from different angles, experimenting with approaches, and connecting the results to software that people can actually use.
+I'm a Machine Learning / AI Developer interested in understanding how intelligent systems learn from data, process information, and solve real-world problems. My interests span **Machine Learning, Deep Learning, Natural Language Processing, Large Language Models (LLMs), Reinforcement Learning, and AI Engineering**.
 
-My work spans language understanding, adaptive learning strategies, computer vision, and the infrastructure behind model inference. Each project gives me an opportunity to explore a different engineering challenge—from interpreting the subtleties of human communication to connecting visual perception with physical hardware.
+I'm particularly interested in exploring how language models understand and generate text, how Retrieval-Augmented Generation (RAG) enhances LLM applications, and how machine learning models can be integrated into reliable, practical software systems. I also enjoy experimenting with learning algorithms, exploring model architectures, and understanding the reasoning behind different technical approaches.
 
-I believe good AI engineering is not just about choosing a model; it's about designing the whole system around the problem.
+My goal is to strengthen my foundations in AI while building useful applications that combine intelligent models, thoughtful system design, and effective engineering.
 
 ---
 
@@ -53,16 +53,31 @@ I believe good AI engineering is not just about choosing a model; it's about des
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI & Machine Learning
+### Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FC6D26?style=for-the-badge&logo=huggingface&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-315C46?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3572A5?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=for-the-badge)
+
+### AI Engineering
+
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7057FF?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-365E9D?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-5B45B8?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2D3748?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B45B8?style=for-the-badge)
+![Model Serving](https://img.shields.io/badge/Model_Serving-008080?style=for-the-badge)
+
+### NLP & Language Models
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FC6D26?style=for-the-badge&logo=huggingface&logoColor=white)
+![DeBERTa](https://img.shields.io/badge/DeBERTa-4B6F44?style=for-the-badge)
+![Text Classification](https://img.shields.io/badge/Text_Classification-336699?style=for-the-badge)
+![Semantic Similarity](https://img.shields.io/badge/Semantic_Similarity-7952B3?style=for-the-badge)
 
 ### Backend & Infrastructure
 
@@ -71,8 +86,6 @@ I believe good AI engineering is not just about choosing a model; it's about des
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-2D3748?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B45B8?style=for-the-badge)
 
 </div>
 
@@ -160,8 +173,6 @@ A machine-learning systems project focused on model inference and backend infras
 ---
 
 <div align="center">
-
-**Learn continuously. Build thoughtfully. Innovate with purpose.**
 
 [Email](mailto:srivarma153@gmail.com) · [GitHub](https://github.com/SrivarmaBattini) · [LinkedIn](https://www.linkedin.com/in/srivarma-battini-20b37632b/)
 
