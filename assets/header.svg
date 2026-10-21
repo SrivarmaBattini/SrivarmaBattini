@@ -1,25 +1,93 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
-<title id="title">Srivarma Battini — Machine Learning / AI Developer</title>
-<desc id="desc">Dark charcoal portfolio banner with teal accent lines and abstract nodes.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171B20"/><stop offset="1" stop-color="#20262D"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#56D6C2"/><stop offset="1" stop-color="#8BE9D9"/></linearGradient>
-</defs>
-<rect width="1200" height="250" rx="22" fill="url(#bg)"/>
-<path d="M0 212 H1200" stroke="#39434D" stroke-width="1"/>
-<path d="M0 0 H390 L310 7 H0Z" fill="#56D6C2" opacity=".9"/>
-<g opacity=".28" stroke="#56D6C2" fill="none" stroke-width="1.5">
-  <path d="M900 52 L1000 100 L1090 54 L1150 120 L1060 185 L960 158 L900 52"/>
-  <path d="M1000 100 L1060 185 M1090 54 L1060 185 M960 158 L1150 120"/>
-  <circle cx="900" cy="52" r="5" fill="#56D6C2"/><circle cx="1000" cy="100" r="5" fill="#56D6C2"/>
-  <circle cx="1090" cy="54" r="5" fill="#56D6C2"/><circle cx="1150" cy="120" r="5" fill="#56D6C2"/>
-  <circle cx="1060" cy="185" r="5" fill="#56D6C2"/><circle cx="960" cy="158" r="5" fill="#56D6C2"/>
-</g>
-<g font-family="Inter,Segoe UI,Arial,sans-serif">
-  <text x="66" y="83" fill="#56D6C2" font-size="15" font-weight="700" letter-spacing="4">PORTFOLIO / 2026</text>
-  <text x="62" y="142" fill="#F2F5F7" font-size="43" font-weight="750">Srivarma Battini</text>
-  <text x="65" y="178" fill="#AAB4BE" font-size="21" font-weight="500">Machine Learning / AI Developer</text>
-  <rect x="66" y="202" width="42" height="4" rx="2" fill="url(#accent)"/>
-  <text x="120" y="209" fill="#AAB4BE" font-size="12" letter-spacing="1.6">ML · NLP · LLMs · REINFORCEMENT LEARNING</text>
-</g>
+  <title id="title">SRIVARMA BATTINI — Machine Learning / AI Developer</title>
+  <desc id="desc">Modern dark charcoal portfolio banner with an uppercase name, highlighted ML focus, teal accents, and an abstract neural network.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#151A20"/>
+      <stop offset="100%" stop-color="#222A32"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#56D6C2"/>
+      <stop offset="100%" stop-color="#8BE9D9"/>
+    </linearGradient>
+
+    <linearGradient id="nameAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F4F7F9"/>
+      <stop offset="75%" stop-color="#F4F7F9"/>
+      <stop offset="100%" stop-color="#56D6C2"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#56D6C2" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#56D6C2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="250" rx="22" fill="url(#bg)"/>
+
+  <!-- Top teal accent -->
+  <path d="M0 0 H390 L310 7 H0Z" fill="#56D6C2" opacity=".9"/>
+
+  <!-- Bottom divider -->
+  <path d="M0 212 H1200" stroke="#39434D" stroke-width="1"/>
+
+  <!-- Abstract AI neural network -->
+  <circle cx="1035" cy="116" r="175" fill="url(#glow)"/>
+
+  <g stroke="#56D6C2" stroke-width="1.5" opacity=".30" fill="none">
+    <path d="M900 52 L1000 100 L1090 54 L1150 120 L1060 185 L960 158 Z"/>
+    <path d="M900 52 L960 158 L1150 120"/>
+    <path d="M1000 100 L1060 185"/>
+    <path d="M1090 54 L1060 185"/>
+    <path d="M960 158 L1060 185"/>
+  </g>
+
+  <g fill="#56D6C2" opacity=".42">
+    <circle cx="900" cy="52" r="5.5"/>
+    <circle cx="1000" cy="100" r="5.5"/>
+    <circle cx="1090" cy="54" r="5.5"/>
+    <circle cx="1150" cy="120" r="5.5"/>
+    <circle cx="1060" cy="185" r="5.5"/>
+    <circle cx="960" cy="158" r="5.5"/>
+  </g>
+
+  <!-- Main text -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+
+    <!-- Name -->
+    <text
+      x="64"
+      y="119"
+      fill="url(#nameAccent)"
+      font-size="43"
+      font-weight="800"
+      letter-spacing=".5">
+      SRIVARMA BATTINI
+    </text>
+
+    <!-- Name underline -->
+    <rect x="66" y="139" width="170" height="4" rx="2" fill="url(#accent)"/>
+    <path d="M246 141 H690" stroke="#39434D" stroke-width="2" opacity=".7"/>
+
+    <!-- Professional title -->
+    <text
+      x="65"
+      y="174"
+      fill="#C0CAD3"
+      font-size="21"
+      font-weight="600">
+      Machine Learning / AI Developer
+    </text>
+
+    <!-- Technical focus: ML highlighted -->
+    <g font-size="12" font-weight="600" letter-spacing="1.5">
+      <text x="66" y="207" fill="#56D6C2" font-weight="800">ML</text>
+      <text x="88" y="207" fill="#AAB4BE">· NLP · LLMs · REINFORCEMENT LEARNING</text>
+    </g>
+
+  </g>
 </svg>
