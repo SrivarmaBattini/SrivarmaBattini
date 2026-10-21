@@ -58,6 +58,7 @@ My goal is to strengthen my foundations in AI while building useful applications
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-315C46?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-3572A5?style=for-the-badge)
 ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=for-the-badge)
@@ -68,7 +69,6 @@ My goal is to strengthen my foundations in AI while building useful applications
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7057FF?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-365E9D?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-5B45B8?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-2D3748?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5B45B8?style=for-the-badge)
 ![Model Serving](https://img.shields.io/badge/Model_Serving-008080?style=for-the-badge)
 
