@@ -2,10 +2,12 @@
 
 <img src="assets/header.svg" width="100%" alt="Srivarma Battini — Machine Learning / AI Developer" />
 
-[![Email](https://img.shields.io/badge/Email-Contact-56D6C2?style=for-the-badge&logo=gmail&logoColor=171B20)](mailto:srivarma153@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-20262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrivarmaBattini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-20262D?style=for-the-badge&logo=linkedin&logoColor=56D6C2)](https://www.linkedin.com/in/srivarma-battini-20b37632b/)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20)](Srivarma_Battini_Resume.pdf)
+<br/>
+
+[![EMAIL](https://img.shields.io/badge/EMAIL-Contact-56D6C2?style=for-the-badge&logo=gmail&logoColor=171B20)](mailto:srivarma153@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-Profile-20262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrivarmaBattini)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-Connect-20262D?style=for-the-badge&logo=linkedin&logoColor=56D6C2)](https://www.linkedin.com/in/srivarma-battini-20b37632b/)
+[![RESUME](https://img.shields.io/badge/RESUME-Download-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20)](Srivarma_Battini_Reume.pdf)
 
 </div>
 
@@ -60,12 +62,6 @@ I believe good AI engineering is not just about choosing a model; it's about des
 
 ## Featured Projects
 
-<div align="center">
-
-*Four projects. Four different engineering challenges.*
-
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -74,7 +70,7 @@ I believe good AI engineering is not just about choosing a model; it's about des
 
 ### [EmailIQ ↗](https://github.com/SrivarmaBattini/EmailIQ)
 
-An AI-powered email analysis and rewriting system that looks beyond sentiment to examine **tone, intent, urgency, politeness, sarcasm, and passive aggression**, including changes in tone across a conversation.
+An AI-powered email analysis and rewriting system that examines **tone, intent, urgency, politeness, sarcasm, and passive aggression**, including changes in tone across a conversation.
 
 Custom DeBERTa-v3-small models analyze messages, while retrieval-assisted LLM rewriting helps produce more context-aware communication.
 
@@ -105,6 +101,7 @@ Its QWI approach uses Q-learning and Whittle Index prioritization to investigate
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -130,12 +127,12 @@ It connects **OpenCV, ROS 2, and Raspberry Pi hardware** to bridge visual percep
 
 ### [InferenceHub ↗](https://github.com/SrivarmaBattini/InferenceHub)
 
-A machine-learning systems project. Describe its actual functionality, architecture, and implementation based on the code in the repository.
+A machine-learning systems project focused on model inference and backend infrastructure. Update this description to match the actual features and architecture implemented in the repository.
 
 **Highlights**
 - Add verified implementation highlights
 - Describe actual system design decisions
-- Include performance results only when measured
+- Include performance results only if measured
 
 `Python` `FastAPI` `Docker`
 
