@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="96" viewBox="0 0 1000 96" role="img" aria-labelledby="title">
+<title id="title">Learn continuously. Build thoughtfully. Innovate with purpose.</title>
+<rect x="1" y="1" width="998" height="94" rx="15" fill="#171B20" stroke="#39434D"/>
+<path d="M25 28 H45 M25 35 H38 M25 42 H48" stroke="#56D6C2" stroke-width="3" stroke-linecap="round"/>
+<text x="66" y="42" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="650" fill="#F2F5F7">Learn continuously.</text>
+<text x="66" y="69" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#AAB4BE">Build thoughtfully. Innovate with purpose.</text>
+<circle cx="956" cy="48" r="18" fill="#20262D" stroke="#56D6C2"/><path d="M948 48 L954 54 L965 41" fill="none" stroke="#56D6C2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

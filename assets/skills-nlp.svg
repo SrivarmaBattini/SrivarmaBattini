@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="142" viewBox="0 0 1000 142" role="img" aria-labelledby="title">
+<title id="title">Natural Language Processing skills</title>
+<rect x="1" y="1" width="998" height="140" rx="16" fill="#20262D" stroke="#39434D"/><rect x="1" y="1" width="5" height="140" rx="2.5" fill="#56D6C2"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="28" y="35" font-size="17" font-weight="700" fill="#F2F5F7">02 / NATURAL LANGUAGE PROCESSING</text><g font-size="13" fill="#DDE5EA">
+<rect x="28" y="53" width="128" height="30" rx="8" fill="#2B343D"/><text x="92" y="72" text-anchor="middle">Hugging Face</text>
+<rect x="164" y="53" width="109" height="30" rx="8" fill="#2B343D"/><text x="218.5" y="72" text-anchor="middle">Transformers</text>
+<rect x="281" y="53" width="92" height="30" rx="8" fill="#2B343D"/><text x="327" y="72" text-anchor="middle">DeBERTa</text>
+<rect x="381" y="53" width="146" height="30" rx="8" fill="#2B343D"/><text x="454" y="72" text-anchor="middle">Text Preprocessing</text>
+<rect x="535" y="53" width="139" height="30" rx="8" fill="#2B343D"/><text x="604.5" y="72" text-anchor="middle">Text Classification</text>
+<rect x="682" y="53" width="130" height="30" rx="8" fill="#2B343D"/><text x="747" y="72" text-anchor="middle">Sentiment Analysis</text>
+<rect x="820" y="53" width="151" height="30" rx="8" fill="#2B343D"/><text x="895.5" y="72" text-anchor="middle">Text Embeddings</text>
+<rect x="28" y="94" width="161" height="29" rx="8" fill="#2B343D"/><text x="108.5" y="113" text-anchor="middle">Semantic Similarity</text>
+</g></g></svg>
