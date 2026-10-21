@@ -5,6 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-56D6C2?style=for-the-badge&logo=gmail&logoColor=171B20)](mailto:srivarma153@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-20262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrivarmaBattini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-20262D?style=for-the-badge&logo=linkedin&logoColor=56D6C2)](https://www.linkedin.com/in/srivarma-battini-20b37632b/)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20)](Srivarma_Battini_Resume.pdf)
 
 </div>
 
@@ -24,34 +25,34 @@ I believe good AI engineering is not just about choosing a model; it's about des
 
 <div align="center">
 
-### Programming
+### Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Machine Learning & Data
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### NLP & Language Models
+### AI & Machine Learning
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FC6D26?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-365E9D?style=for-the-badge&logo=databricks&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B45B8?style=for-the-badge&logo=databricks&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-315C46?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-365E9D?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-5B45B8?style=for-the-badge)
 
-### Backend & Data Infrastructure
+### Backend & Infrastructure
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-2D3748?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B45B8?style=for-the-badge)
 
 </div>
 
@@ -73,9 +74,9 @@ I believe good AI engineering is not just about choosing a model; it's about des
 
 ### [EmailIQ ↗](https://github.com/SrivarmaBattini/EmailIQ)
 
-An email analysis and rewriting system that looks beyond sentiment to examine **tone, intent, urgency, politeness, sarcasm, and passive aggression**—including changes in tone across a conversation.
+An AI-powered email analysis and rewriting system that looks beyond sentiment to examine **tone, intent, urgency, politeness, sarcasm, and passive aggression**, including changes in tone across a conversation.
 
-Custom DeBERTa-v3-small models handle the analysis, while retrieval-assisted LLM rewriting helps produce more context-aware communication.
+Custom DeBERTa-v3-small models analyze messages, while retrieval-assisted LLM rewriting helps produce more context-aware communication.
 
 **Highlights**
 - Multi-signal email analysis
@@ -91,16 +92,16 @@ Custom DeBERTa-v3-small models handle the analysis, while retrieval-assisted LLM
 
 ### [ML Recall ↗](https://github.com/SrivarmaBattini/MLRecall)
 
-A memory-retention scheduling approach that frames review decisions as a **Restless Multi-Armed Bandit (RMAB)** problem.
+A memory-retention scheduling project that frames review decisions as a **Restless Multi-Armed Bandit (RMAB)** problem.
 
-Its QWI method combines Q-learning, Whittle Index prioritization, and memory-decay modeling to investigate how review opportunities can be allocated under constraints.
+Its QWI approach uses Q-learning and Whittle Index prioritization to investigate how review opportunities can be allocated under a limited daily review budget.
 
 **Highlights**
-- Adaptive review prioritization
-- Retention-decay modeling
+- Review prioritization
+- Memory-decay modeling
 - Simulation and policy evaluation
 
-`Python` `Q-Learning` `RMAB` `Whittle Index` `FastAPI`
+`Python` `QWI` `Q-Learning` `RMAB` `Whittle Index`
 
 </td>
 </tr>
@@ -111,14 +112,14 @@ Its QWI method combines Q-learning, Whittle Index prioritization, and memory-dec
 
 ### [Auto Aim Laser Turret ↗](https://github.com/SrivarmaBattini/Auto-Aim-Laser-Turret)
 
-A vision-guided hardware project that detects and tracks targets in a live camera feed, estimates movement angles, and translates them into servo commands.
+A vision-guided pan-tilt system that detects and tracks targets in a live camera feed, estimates movement angles, and translates them into servo commands.
 
-The system connects **OpenCV, ROS 2, and Raspberry Pi hardware** to bridge visual perception and physical actuation.
+It connects **OpenCV, ROS 2, and Raspberry Pi hardware** to bridge visual perception and physical actuation.
 
 **Highlights**
 - Live target detection and tracking
 - Geometric angle estimation
-- Servo actuation through hardware interfaces
+- Servo control through hardware interfaces
 
 `OpenCV` `ROS 2` `Raspberry Pi` `Python` `PWM/GPIO`
 
@@ -129,32 +130,18 @@ The system connects **OpenCV, ROS 2, and Raspberry Pi hardware** to bridge visua
 
 ### [InferenceHub ↗](https://github.com/SrivarmaBattini/InferenceHub)
 
-A backend system designed to manage and run machine-learning inference workloads, with an emphasis on the infrastructure required to operate services reliably.
-
-Its structure includes API routing, database migrations, request tracing, structured logging, caching, and streaming-oriented components.
+A machine-learning systems project. Describe its actual functionality, architecture, and implementation based on the code in the repository.
 
 **Highlights**
-- Inference service management
-- Observability and request tracing
-- Containerized deployment setup
+- Add verified implementation highlights
+- Describe actual system design decisions
+- Include performance results only when measured
 
-`FastAPI` `Docker` `Gunicorn` `Alembic` `Python`
+`Python` `FastAPI` `Docker`
 
 </td>
 </tr>
 </table>
-
----
-
-## Resume
-
-<div align="center">
-
-[![Download Resume](https://img.shields.io/badge/Download_Resume-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20)](assets/Srivarma_Battini_Resume.pdf)
-
-</div>
-
-*Add the PDF at `assets/Srivarma_Battini_Resume.pdf` to enable the download link.*
 
 ---
 
