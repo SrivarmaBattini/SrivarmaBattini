@@ -1,0 +1,13 @@
+# Profile README redesign
+
+Copy `README.md` and the entire `assets/` folder into the root of your `SrivarmaBattini/SrivarmaBattini` repository.
+
+Before committing, replace these four placeholders in README.md with real repository URLs:
+- `PROJECT_REPO_URL_EMAILIQ`
+- `PROJECT_REPO_URL_INFERENCEHUB`
+- `PROJECT_REPO_URL_LRECALL`
+- `PROJECT_REPO_URL_ROBOTICS`
+
+The InferenceHub description is intentionally flagged for correction because the exact repository URL/code wasn't available to verify. The project images are original SVG illustrations inspired by a dark technical grid and teal circuit aesthetic. They are not screenshots.
+
+The GitHub Activity section deliberately avoids an external graph image service, which caused the broken image in the previous version.
