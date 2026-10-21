@@ -20,7 +20,7 @@
 </a>
 </td>
 <td align="center">
-<a href="Srivarma_Battini_Reume.pdf">
+<a href="Srivarma_Battini_Resume.pdf">
 <img src="https://img.shields.io/badge/RESUME-DOWNLOAD-56D6C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=171B20" alt="Resume"/>
 </a>
 </td>
