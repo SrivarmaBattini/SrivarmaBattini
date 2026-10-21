@@ -109,18 +109,6 @@ A ROS-based target-tracking project combining visual processing, robotic communi
 ## GitHub Activity
 
 <div align="center">
-
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=SrivarmaBattini&bg_color=F8FAFC&color=233030&line=0D9488&point=0D9488&area=true&area_color=E2E8F0&hide_border=true)](https://github.com/SrivarmaBattini)
-
-</div>
-
-## Connect
-
-I'm interested in AI/ML, NLP, and building useful intelligent software.
-
-**[LinkedIn](https://www.linkedin.com/in/srivarma-battini-20b37632b/) · [Email](mailto:srivarma153@gmail.com) · [GitHub](https://github.com/SrivarmaBattini)**
-
-<div align="center">
   <sub>Learn continuously · Build thoughtfully · Innovate with purpose</sub>
 </div>
 
