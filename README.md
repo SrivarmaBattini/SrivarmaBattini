@@ -38,7 +38,7 @@ Analyzes workplace email signals and helps generate more professional rewrites w
 
 `DeBERTa` `SBERT` `RAG` `ChromaDB` `LLMs`
 
-**[View repository](PROJECT_REPO_URL_EMAILIQ)**
+**[View repository](https://github.com/SrivarmaBattini/EmailIQ)**
 
 </td>
 <td width="50%" valign="top">
@@ -53,14 +53,14 @@ An AI engineering project focused on making model inference and intelligent capa
 
 `AI Engineering` `Model Inference` `Backend`
 
-**[View repository](PROJECT_REPO_URL_INFERENCEHUB)**
+**[View repository](https://github.com/SrivarmaBattini/InferenceHub)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03 · LRecall</h3>
+<h3>03 · MLRecall</h3>
 
 <img src="assets/lrecall.svg" width="100%" alt="LRecall project illustration">
 
@@ -70,12 +70,12 @@ Explores how to allocate a limited daily review budget to improve long-term memo
 
 `Python` `Whittle Index` `RL` `FastAPI`
 
-**[View repository](PROJECT_REPO_URL_LRECALL)**
+**[View repository](https://github.com/SrivarmaBattini/MLRecall)**
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04 · Computer Vision &amp; Robotics</h3>
+<h3>04 · Auto Aim Laser Turret</h3>
 
 <img src="assets/robotics.svg" width="100%" alt="Computer vision and robotics project illustration">
 
@@ -85,7 +85,7 @@ A ROS-based target-tracking project combining visual processing, robotic communi
 
 `ROS 2` `Python` `OpenCV` `Computer Vision`
 
-**[View repository](PROJECT_REPO_URL_ROBOTICS)**
+**[View repository](https://github.com/SrivarmaBattini/Auto-Aim-Laser-Turret)**
 
 </td>
 </tr>
