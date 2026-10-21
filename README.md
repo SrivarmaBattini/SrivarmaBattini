@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Srivarma Battini — Machine Learning / AI Developer" />
+<img src="assets/header.svg" width="100%" alt="Srivarma Battini — AI/ML Engineer" />
 
 <table>
 <tr>
